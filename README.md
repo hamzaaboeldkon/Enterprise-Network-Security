@@ -15,6 +15,8 @@ The network is segmented into multiple zones to enhance security, reduce attack 
 - Syslog centralized logging
 - Port Security & unused ports disabled
 - DMZ implementation for public servers
+- NTP Server
+- Web Server
 
 ## 🏗️ Network Design
 - Each zone uses a dedicated subnet (VLSM)
